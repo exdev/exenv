@@ -1,0 +1,5 @@
+[user]
+	name = Wu Jie (my new PC)
+	email = KarasAya@gmail.com
+[merge]
+    tool = vimdiff
