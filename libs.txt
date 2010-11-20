@@ -1,0 +1,17 @@
+------------------------------------------------------------------ 
+name: libRocket
+tag: cpp,ui
+home: http://librocket.com
+repo: git clone git://github.com/lloydw/libRocket.git
+------------------------------------------------------------------ 
+name: aicore
+tag: cpp,ai
+repo: git clone git://github.com/idmillington/aicore.git
+refs: Artificial Intelligence for Games
+------------------------------------------------------------------ 
+name: blender
+tag: cpp,python,tools,animation
+home: http://www.blender.org
+repo: svn checkout https://svn.blender.org/svnroot/bf-blender/trunk/blender
+------------------------------------------------------------------ 
+
