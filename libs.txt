@@ -1,17 +1,168 @@
 ------------------------------------------------------------------ 
-name: libRocket
-tag: cpp,ui
-home: http://librocket.com
-repo: git clone git://github.com/lloydw/libRocket.git
------------------------------------------------------------------- 
 name: aicore
 tag: cpp,ai
 repo: git clone git://github.com/idmillington/aicore.git
 refs: Artificial Intelligence for Games
 ------------------------------------------------------------------ 
+name: akihabara
+tag: javascript,html5,game engine
+repo: git clone git://github.com/kesiev/akihabara.git
+home: http://www.kesiev.com/akihabara/
+------------------------------------------------------------------ 
 name: blender
 tag: cpp,python,tools,animation
 home: http://www.blender.org
 repo: svn checkout https://svn.blender.org/svnroot/bf-blender/trunk/blender
+------------------------------------------------------------------ 
+name: Box2D
+tag: cpp,physics
+home: http://www.box2d.org/
+repo: svn checkout http://box2d.googlecode.com/svn/trunk/ box2d-read-only
+------------------------------------------------------------------ 
+name: cairo graphics
+tag: c,2d,graphics
+home: http://cairographics.org/
+repo: git clone git://anongit.freedesktop.org/git/cairo
+repo: git clone git://anongit.freedesktop.org/git/pixman.git
+------------------------------------------------------------------ 
+name: canvas2image
+tag: javascript,html5
+home: http://www.nihilogic.dk/labs/canvas2image/
+------------------------------------------------------------------ 
+name: cakejs
+tag: javascript,html5,animation
+home: http://code.google.com/p/cakejs/
+repo: svn checkout http://cakejs.googlecode.com/svn/trunk/ cakejs-read-only 
+------------------------------------------------------------------ 
+name: chipmunk-physics
+tag: c,physics
+home: http://code.google.com/p/chipmunk-physics/
+repo: svn checkout http://chipmunk-physics.googlecode.com/svn/trunk/ chipmunk-physics-read-only
+------------------------------------------------------------------ 
+name: ClanLib
+tag: cpp,game engine
+home: http://clanlib.org/wiki/Main_Page
+------------------------------------------------------------------ 
+name: cocos2d-iphone
+tag: objc,2d,game engine
+home: http://www.cocos2d-iphone.org/
+repo: git clone git://github.com/cocos2d/cocos2d-iphone.git
+------------------------------------------------------------------ 
+name: cocos2d-x
+tag: cpp,2d,game engine
+repo: git clone git://github.com/cocos2d/cocos2d-x.git
+------------------------------------------------------------------ 
+name: dojo
+tag: javascript,framework
+home: http://www.dojotoolkit.org/
+repo: svn checkout http://svn.dojotoolkit.org/src/ 
+------------------------------------------------------------------ 
+name: EASTL
+tag: cpp
+home: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html
+repo: git clone git://github.com/paulhodge/EASTL.git
+------------------------------------------------------------------ 
+name: galaxyengine 
+tag: Mac,iOS,game engine
+home: http://code.google.com/p/galaxyengine/
+repo: svn checkout http://galaxyengine.googlecode.com/svn/trunk/ galaxyengine-read-only
+------------------------------------------------------------------ 
+name: glib
+tag: c,framework
+home: http://www.gtk.org/ 
+repo: git clone git://git.gnome.org/glib
+------------------------------------------------------------------ 
+name: glibc
+tag: c,framework
+home: http://www.gnu.org/software/libc/ 
+repo: git clone git://sourceware.org/git/glibc.git
+------------------------------------------------------------------ 
+name: glut
+tag: c,opengl
+home: http://www.opengl.org/resources/libraries/glut/ 
+------------------------------------------------------------------ 
+name: gtk+
+tag: c,ui,framework
+home: http://www.gtk.org/ 
+repo: git clone git://git.gnome.org/gtk+
+------------------------------------------------------------------ 
+name: gx
+tag: javascript,animation
+home: http://gx.riccardodegni.net/
+------------------------------------------------------------------ 
+name: iup
+tag: c,lua,ui
+home: http://www.tecgraf.puc-rio.br/iup/
+------------------------------------------------------------------ 
+name: jQuery
+tag: javascript,framework
+home: http://jquery.com/
+repo: git clone git://github.com/jquery/jquery.git
+------------------------------------------------------------------ 
+name: jQuery-ui
+tag: javascript,ui
+home: http://jqueryui.com/
+repo: git clone git://github.com/jquery/jquery-ui.git
+------------------------------------------------------------------ 
+name: libRocket
+tag: cpp,ui
+home: http://librocket.com
+repo: git clone git://github.com/lloydw/libRocket.git
+------------------------------------------------------------------ 
+name: love2d
+tag: cpp,2d,game engine
+home: http://love2d.org/
+repo: hg clone http://bitbucket.org/rude/love
+------------------------------------------------------------------ 
+name: mootools-core
+tag: javascript,framework
+home: http://mootools.net/
+repo: git clone git://github.com/mootools/mootools-core.git
+------------------------------------------------------------------ 
+name: mootools-more
+tag: javascript,framework
+home: http://mootools.net/
+repo: git clone git://github.com/mootools/mootools-more.git
+------------------------------------------------------------------ 
+name: mochaui
+tag: javascript,ui
+home: http://mochaui.org/
+repo: git clone git://github.com/mui/mochaui.git
+------------------------------------------------------------------ 
+name: ogre3d
+tag: 3d,cpp
+home: http://www.ogre3d.org/
+------------------------------------------------------------------ 
+name: opensteer
+tag: cpp,ai
+home: http://opensteer.sourceforge.net/
+refs: http://www.red3d.com/cwr/
+------------------------------------------------------------------ 
+name: owyl
+tag: python,ai
+home: http://code.google.com/p/owyl/
+repo: svn checkout http://owyl.googlecode.com/svn/trunk/ owyl-read-only
+------------------------------------------------------------------ 
+name: prototype
+tag: javascript,framework
+home: http://www.prototypejs.org/
+repo: git clone git://github.com/sstephenson/prototype.git
+------------------------------------------------------------------ 
+name: RenderEngine-js
+tag: javascript,game engine
+home: http://www.renderengine.com/
+home: http://code.google.com/p/renderengine/
+repo: svn checkout http://renderengine.googlecode.com/svn/trunk/ renderengine-read-only 
+------------------------------------------------------------------ 
+name: SDL
+tag: c,framework
+home: http://www.libsdl.org/hg.php
+repo: hg clone http://hg.libsdl.org/SDL
+repo: hg clone -u SDL-1.2 http://hg.libsdl.org/SDL SDL-1.2
+------------------------------------------------------------------ 
+name: yui3
+tag: javascript,framework,ui
+home: http://developer.yahoo.com/yui/
+repo: git clone git://github.com/yui/yui3.git 
 ------------------------------------------------------------------ 
 
