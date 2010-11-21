@@ -19,6 +19,11 @@ tag: cpp,physics
 home: http://www.box2d.org/
 repo: svn checkout http://box2d.googlecode.com/svn/trunk/ box2d-read-only
 ------------------------------------------------------------------ 
+name: bullet
+tag: cpp,physics
+home: http://code.google.com/p/bullet/
+repo: svn checkout http://bullet.googlecode.com/svn/trunk/ bullet-read-only
+------------------------------------------------------------------ 
 name: cairo graphics
 tag: c,2d,graphics
 home: http://cairographics.org/
