@@ -14,6 +14,10 @@ tag: cpp,python,tools,animation
 home: http://www.blender.org
 repo: svn checkout https://svn.blender.org/svnroot/bf-blender/trunk/blender
 ------------------------------------------------------------------ 
+name: boost
+tag: cpp,framework
+home: http://www.boost.org/
+------------------------------------------------------------------ 
 name: Box2D
 tag: cpp,physics
 home: http://www.box2d.org/
@@ -39,6 +43,13 @@ tag: javascript,html5,animation
 home: http://code.google.com/p/cakejs/
 repo: svn checkout http://cakejs.googlecode.com/svn/trunk/ cakejs-read-only 
 ------------------------------------------------------------------ 
+name: CEGUI
+tag: cpp,ui
+home: http://www.cegui.org.uk/wiki/index.php/Main_Page
+repo: svn co https://crayzedsgui.svn.sourceforge.net/svnroot/crayzedsgui/cegui_mk2/trunk cegui_mk2-trunk
+repo: svn co https://crayzedsgui.svn.sourceforge.net/svnroot/crayzedsgui/CELayoutEditor/trunk LayoutEditor
+repo: svn co https://crayzedsgui.svn.sourceforge.net/svnroot/crayzedsgui/CEImagesetEditor/trunk ImagesetEditor
+------------------------------------------------------------------ 
 name: chipmunk-physics
 tag: c,physics
 home: http://code.google.com/p/chipmunk-physics/
@@ -57,6 +68,11 @@ name: cocos2d-x
 tag: cpp,2d,game engine
 repo: git clone git://github.com/cocos2d/cocos2d-x.git
 ------------------------------------------------------------------ 
+name: DevIL
+tag: c,image
+home: http://openil.sourceforge.net/
+repo: svn co https://openil.svn.sourceforge.net/svnroot/openil openil
+------------------------------------------------------------------ 
 name: dojo
 tag: javascript,framework
 home: http://www.dojotoolkit.org/
@@ -66,6 +82,20 @@ name: EASTL
 tag: cpp
 home: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html
 repo: git clone git://github.com/paulhodge/EASTL.git
+------------------------------------------------------------------ 
+name: FreeImage
+tag: cpp,image
+home: http://freeimage.sourceforge.net
+------------------------------------------------------------------ 
+name: FreeType
+tag: c,font
+home: http://freetype.sourceforge.net/index2.html
+------------------------------------------------------------------ 
+name: G3D 
+tag: cpp,3d,game engine
+home: http://g3d.sourceforge.net/
+repo: cvs -z3 -d:pserver:anonymous@g3d.cvs.sf.net:/cvsroot/g3d co -P G3D
+repo: cvs -z3 -d:pserver:anonymous@g3d.cvs.sf.net:/cvsroot/g3d co -P data
 ------------------------------------------------------------------ 
 name: galaxyengine 
 tag: Mac,iOS,game engine
@@ -114,6 +144,11 @@ tag: cpp,ui
 home: http://librocket.com
 repo: git clone git://github.com/lloydw/libRocket.git
 ------------------------------------------------------------------ 
+name: loki
+tag: cpp,framework
+home: http://loki-lib.sourceforge.net/
+repo: svn co https://loki-lib.svn.sourceforge.net/svnroot/loki-lib loki-lib
+------------------------------------------------------------------ 
 name: love2d
 tag: cpp,2d,game engine
 home: http://love2d.org/
@@ -137,6 +172,10 @@ repo: git clone git://github.com/mui/mochaui.git
 name: ogre3d
 tag: 3d,cpp
 home: http://www.ogre3d.org/
+------------------------------------------------------------------ 
+name: OpenSceneGraph
+tag: cpp,3d,opengl
+home: http://www.openscenegraph.org/projects/osg
 ------------------------------------------------------------------ 
 name: opensteer
 tag: cpp,ai
@@ -164,6 +203,11 @@ tag: c,framework
 home: http://www.libsdl.org/hg.php
 repo: hg clone http://hg.libsdl.org/SDL
 repo: hg clone -u SDL-1.2 http://hg.libsdl.org/SDL SDL-1.2
+------------------------------------------------------------------ 
+name: wykobi
+desc: Wykobi is an extremly efficient, robust and simple to use C++ 2D/3D oriented computational geometry library.
+tag: cpp,geometry 
+home: http://www.wykobi.com/
 ------------------------------------------------------------------ 
 name: yui3
 tag: javascript,framework,ui
