@@ -209,6 +209,11 @@ desc: Wykobi is an extremly efficient, robust and simple to use C++ 2D/3D orient
 tag: cpp,geometry 
 home: http://www.wykobi.com/
 ------------------------------------------------------------------ 
+name: yajl
+tag: json,c
+home: http://lloyd.github.com/yajl/
+repo: https://github.com/lloyd/yajl.git
+------------------------------------------------------------------ 
 name: yui3
 tag: javascript,framework,ui
 home: http://developer.yahoo.com/yui/
