@@ -1,0 +1,14 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=[Variabilã nouã]
+Current process (Total Commander)=Procesul curent (Total Commander)
+System=Sistem
+Current user=Utilizator curent
+Change Variable=Modificare variabilã
+Name:=Nume
+Value:=Valoare
+Language:=Limbã:
+Properties=Opþiuni
+Show variables values=Expunere valori variabile
+

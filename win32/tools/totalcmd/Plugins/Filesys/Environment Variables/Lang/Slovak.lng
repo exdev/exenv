@@ -1,0 +1,11 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=[Nová premenná]
+Current process (Total Commander)=Aktuálny proces (Total Commander)
+System=Systém
+Current user=Aktuálny uívate¾
+Change variable=Zmeni premennú
+Name:=Meno:
+Value:=Hodnota:
+

@@ -1,0 +1,14 @@
+CHMDir Plugin for Total Commander
++ some utilities. 
+
+Ver. 0.40e (2007/10/16)
+
+CHMDir adds support of ITSS and
+ITOL/ITLS file formats (compiled
+HTML and HtmlHelp 2) to Total
+Commander, allows you to extract,
+search, pack, delete and edit files
+in CHM and extract files from Hx?.
+
+Presence of Internet Explorer in system
+is not necessary.

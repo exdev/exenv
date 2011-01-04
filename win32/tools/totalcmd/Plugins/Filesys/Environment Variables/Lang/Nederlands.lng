@@ -1,0 +1,13 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=[Nieuwe variabele]
+Current process (Total Commander)=Huidig proces (Total Commander)
+System=Systeem
+Current user=Huidige Gebruiker
+Change Variable=Variabele wijzigen
+Name:=Naam:
+Value:=Waarde:
+Language:=Taal:
+Properties=Eigenschappen
+Show variables values=Toon waarden variabele

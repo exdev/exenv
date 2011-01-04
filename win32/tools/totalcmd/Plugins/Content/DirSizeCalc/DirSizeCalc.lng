@@ -1,0 +1,32 @@
+[deu]
+Size (Background)=Größe (Hintergrund)
+Size (On Demand)=Größe (Bei Bedarf)
+Compressed size (Background)=Gepackte Größe (Hintergrund)
+Compressed Size (On Demand)=Gepackte Größe (Bei Bedarf)
+Compression Ratio (Background)=Kompressionrate (Hintergrund)
+Compression Ratio (On Demand)=Kompressionrate (Bei Bedarf)
+Directory Count (Background)=Unterverzeichnisanzahl (Hintergrund)
+Directory Count (On Demand)=Unterverzeichnisanzahl (Bei Bedarf)
+File Count (Background)=Dateianzahl (Hintergrund)
+File Count (On Demand)=Dateianzahl (Bei Bedarf)
+Empty (Background)=Leer (Hintergrund)
+Empty (On Demand)=Leer (Bei Bedarf)
+Contains Files (Background)=Enthält Dateien (Hintergrund)
+Contains Files (On Demand)=Enthält Dateien (Bei Bedarf)
+Contains Subdirectories (Background)=Enthält Unterverzeichnisse (Hintergrund)
+Contains Subdirectories (On Demand)=Enthält Unterverzeichnisse (Bei Bedarf)
+Yes|No|Not available|Not followed=Ja|Nein|Nicht verfügbar|Nicht gefolgt|Nicht verfügbar/Nicht gefolgt
+
+0=<Verzeichnis>
+1=<Abzweigungspunkt>
+2=<Bereitstellungspunkt>
+
+10=B
+
+20=kB
+21=MB
+22=GB
+
+30=KiB
+31=MiB
+32=GiB

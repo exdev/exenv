@@ -1,0 +1,43 @@
+2.2.0.115 - 24.10.07
+  - Updated: Processing of ini-file
+
+2.1.1.110 - ??.10.07
+  - Added: Opportunity to receive screenshots of WebBrowser ActiveX controls
+
+2.0.2.89 - 06.10.07
+  - Updated: Gif creation algorithm
+
+2.0.1.87 - 15.07.07
+  - Added: Italian language file (c) Salvatore Meschini
+
+2.0.1.87 - 14.07.07
+  - Updated: Reading algorithm
+  - Updated: Minor cosmetic changes
+  - Updated: Language files
+  - Added: Polish language file (c) www.tcup.pl
+
+2.0.0.81 - 10.06.07
+  - Updated: Reading algorithm, productivity should will increase for the order
+  - Added: Opportunity of editing format properties in a window of file properties
+  - Added: CF_PALETTE format handlers
+  - Added: French language file (c) Philippe Bezon
+
+1.6.1.71 - 29.05.05
+  - Updated: Minor cosmetic changes
+  - Updated: Minor bags fixed
+  - Added: New option - "Windows default property dialog"
+  - Updated: Language files
+
+
+1.6.0.67 - 18.05.05
+  - Updated: Minor cosmetic changes
+  - Added: Options for writing meta information in png file
+  - Added: FsLinksToLocalFiles and FsGetLocalName function
+  - Updated: Changes in png conversion algorithm
+  - Updated: Changes in own plugin interface
+  - Added: New CF_TEXT handler collecting URL
+
+1.5.1.59 - 24.04.07
+  - Added: History file
+  - Added: EXIF segment in jpeg file and corresponding options
+  - Updated: More correct reception of the file list for a application choice in "Black list"

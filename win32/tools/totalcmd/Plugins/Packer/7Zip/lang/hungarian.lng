@@ -1,0 +1,36 @@
+; Author: b30 <b30@freemail.hu>
+; Version 7zip 0.5.1 (2006-06-26)
+
+[lang]
+codepage=1252
+
+900=Raktár
+901=Leggyorsabb
+903=Gyors
+905=Normál
+907=Legnagyobb
+909=Ultra
+
+1000=7Zip Beállítás
+2000=7Zip Jelszó
+
+1001=Rendben
+1002=Mégse
+1108=Használja mindig ezt a jelszót
+1109=Fájlnevek titkosítása
+1110=A jelszó megjelenítése
+1111=Tömör archívum létrehozása (a fájlokat egy folyamként tömöríti)
+1112=Tömörítés
+1113=Tömörítés foka:
+1114=Tömörítés módja:
+1115=Címtár mérete:
+1116=Szó mérete:
+1117=Jelszó
+1118=Jelszó:
+1123=Multithreading
+
+2001=Rendben
+2002=Mégse
+2101=A 7Zip állomány jelszóval védett
+2102=Írja be a jelszót
+2118=Jelszó:

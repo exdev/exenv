@@ -1,0 +1,12 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=[משתנה חדש]
+Current process (Total Commander)=(Total Commander) תהליך נוכחי
+System=מערכת
+Current user=משתמש נוכחי
+Change variable=שינוי משתנה
+Name:=:שם
+Value:=:ערך
+
+

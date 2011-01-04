@@ -1,0 +1,412 @@
+;---------------------------------------
+; Column title translations for content plugin part
+[rus]
+title=заголовок
+maker=компилятор
+time=дата
+chset=язык
+
+[ger]
+title=Titel
+maker=Ersteller
+time=Datum
+chset=Zeichensatz
+
+;---------------------------------------
+; Dialog translations for packer plugin part
+; For example see [CHMDir.English] section.
+
+[CHMDir]
+; list of all languages in English for settings dialog in this INI-file.
+; 'CHMDir.' + name from 'Languages' = language section name
+; Dialog control: Language combo box in 'CHMDir plugin settings'.
+Languages=English,German,Hungarian,Romanian,Russian
+
+;--------------------------------------
+; section with translation to English.
+;--------------------------------------
+[CHMDir.English]
+
+; Name of language in this language
+LangName=English
+
+; Format of translation string:
+; 	ID=Text of control item of dialog.
+; An ampersand (&) character in the text indicates that the following character
+; is used as a mnemonic character for the control. When the control is displayed,
+; the ampersand is not shown, but the mnemonic character is underlined. The user can choose
+; the control by pressing the key corresponding to the underlined mnemonic character.
+; To use the ampersand as a character in a string, insert two ampersands (&&).
+2=Cancel
+101=CHMDir plugin settings
+1000=Unpacker
+1001=&Show special CHM files
+1002=S&how special ITS files
+1003=Us&e file attributes
+1004=&Files in cache:
+1010=Packer
+1011=&LZX window size:
+1013=&Dir listing chunk size:
+1015=&Calculate optimal size of listing chunk
+1016=S&ort dir listing by extension before compress
+1017=S&tore files by ext. (jpg;png;gif;):
+1019=Default to&pic filenames (index.htm;index.html;readme.htm;):
+1021=Dialog l&anguage:
+1024=Lo&w priority
+1025=Title of topic without <T&ITLE> tag:
+1028=&Use IStorage COM interface (itss.dll) for packing
+1030=Use custo&m window
+1031=Edit...
+1040=CHM la&nguage:
+1042=Sto&re time of the file’s last update
+
+102=HtmlHelp windows properties
+2001=&Type
+2003=Title
+2005=TOC
+2007=Index
+2009=Default HTML
+2011=Home
+2021=&Help properties
+2022=No button text
+2023=Sync TOC && index
+2024=Search tab
+2025=History tab
+2026=Favorites tab
+2027=Put HTML title
+2028=No buttons
+2029=Menu
+2030=Advanced FTS
+2035=Save window pos.
+2036=Hid&e TOC && index
+2041=Toolbar &buttons
+2042=Expand/contract
+2043=Back
+2044=Forward
+2045=Stop
+2046=Refresh
+2047=Home
+2048=Sync
+2049=Options
+2050=Print
+2051=Zoom font
+2052=TOC next
+2053=TOC prev
+2054=Jump1
+2055=Jump2
+2061=Window &position
+2062=Left
+2064=Top
+2066=Right
+2068=Bottom
+2080=&Show state
+2081=&Window styles
+2082=E&x. Window styles
+2090=&Delete information about file from hh.dat
+
+;-------------------------------------
+; section with translation to German.
+;-------------------------------------
+[CHMDir.German]
+;Ьbersetzung Kurt Lettmaier
+LangName=Deutsch
+2=Abbrechen
+101=CHMDir-Plugin Einstellungen
+1000=Entpacker
+1001=Zeige spezielle &CHM-Dateien
+1002=Zeige spezielle &ITS-Dateien
+1003=&Verwende Dateiattribute
+1004=&Dateien im Cache:
+1010=Packer
+1011=&LZX-FenstergrцЯe Code:
+1013=&Ordnerliste BlockrцЯe:
+1015=&Kalkuliere optimale ListenblockgrцЯe
+1016=Ordnerliste vor Kompr. n. Erweitrg. s&ortieren
+1017=&Dateien nach Erw. speichern (jpg;png;gif;):
+1019=Standard &Inhalts-Dateinamen (index.htm;index.html;readme.htm;):
+1021=Dialog &Sprache:
+1024=&Niedere Prioritдt
+1025=Titel des Themas ohne <T&ITLE>-Tag:
+1028=Mit &IStorage COM Interface (itss.dll) packen
+1030=Verwende &benutzerdef. Fenster
+1031=Bearbeiten...
+1040=CHM Sa&prache:
+1042=&Zeit letzten Dateiupdates speichern
+
+102=HtmlHelp Fenstereigenschaften
+2001=&Typ
+2003=Titel
+2005=TOC
+2007=Index
+2009=Standard HTML
+2011=Anfangsseite
+2021=&Hilfe Eigenschaften
+2022=Kein Buttontext
+2023=TOC && Index synch.
+2024=Tab fьr Suche
+2025=Tab fьr History
+2026=Tab fьr Favoriten
+2027=HTML-Titel einfьgen
+2028=Keine Buttons
+2029=Menь
+2030=Erweiterte FTS
+2035=Fensterpos. merken
+2036=TOC && Index &ausbl.
+2041=&Buttons Toolbar
+2042=Auf-/Zuklappen
+2043=Zurьck
+2044=Vorwдrts
+2045=Stop
+2046=Aktualisieren
+2047=Anfangsseite
+2048=Synchronisieren
+2049=Optionen
+2050=Drucken
+2051=Schrift zoomen
+2052=TOC weiter
+2053=TOC zurьck
+2054=Sprung1
+2055=Sprung2
+2061=Fenster&position
+2062=Links
+2064=Oben
+2066=Rechts
+2068=Unten
+2080=&Status anzeigen
+2081=&Fensterstile
+2082=E&rw. Fensterstile
+2090=&Lцsche Informationen zur Datei aus hh.dat
+
+
+;-------------------------------------
+; section with translation to Hungarian.
+;-------------------------------------
+[CHMDir.Hungarian]
+
+; Name of language in this language
+LangName=Hungarian
+
+; Format of translation string:
+; ID=Text of control item of dialog.
+; An ampersand (&) character in the text indicates that the following character
+; is used as a mnemonic character for the control. When the control is displayed,
+; the ampersand is not shown, but the mnemonic character is underlined. The user can choose
+; the control by pressing the key corresponding to the underlined mnemonic character.
+; To use the ampersand as a character in a string, insert two ampersands (&&).
+2=Mйgsem
+101=CHMDir plugin beбllнtбsok
+1000=Kitцmцrнto
+1001=&Spec. CHM fбjlok megmutatбsa
+1002=Spec. ITS fб&jlok megmutatбsa
+1003=Fбjl &attribъtumok hasznбlata
+1004=&Fбjlok cache-ben:
+1010=Tцmцrнto
+1011=&LZX ablak mйret:
+1013=Mappa list. egys. mйret:
+1015=Listбzбsi egysйg &optimбlis mйret szбmolбsa
+1016=Tцmцrнtйs elott a kцnyvtбr &sorrendje kit. szerint
+1017=Fбjlok &tбrolбsa kiterjesztйs szerint (jpg;png;gif;):
+1019=Default to&pic filenames (index.htm;index.html;readme.htm;):
+1021=Pбrbeszйdablak nye&lve:
+1024=Alacsony &prioritбs
+1025=Fejezet cнme tag nйlkьl:
+1028=IStorage COM felьlet hasznбlata (itss.dll) csomagolбshoz
+1030=Sajбt abla&k hasznбlata
+1031=Szerkeszt...
+1040=CHM &nyelve:
+1042=A fбjl utolsу f&rissнtйsйnek tбrolбsa
+
+102=HtmlHelp ablak tulajdonsбgok
+2001=&Tнpus
+2003=Cнm
+2005=Tartalomjegyzйs
+2007=Index
+2009=alapйrtelmezett HTML
+2011=Home
+2021=&Sъgу tulajdonsбgok
+2022=Nincs szцveg a gombon
+2023=Szinkr. Tart. && index
+2024=Keresйs fьl
+2025=Tцrtйnet fьl
+2026=Kedvenc fьl
+2027=Legyen HTML cнm
+2028=Nincsenek gombok
+2029=Menь
+2030=Haladу FTS
+2035=Ablak pozнziу mentйs.
+2036=Tart. && index e<ьntetйse
+2041=Eszkцztбr &gombok
+2042=Kiterj./цsszehъz.
+2043=Vissza
+2044=Hбtra
+2045=Бllj
+2046=Frissнt
+2047=H
+2048=Sync
+2049=Opciуk
+2050=Nyomtat
+2051=Zoom font
+2052=Kцv tart.
+2053=Elozo tart.
+2054=Ugrбs1
+2055=Ugrбs2
+2061=Ablak pozнciу
+2062=Balra
+2064=Fel
+2066=Jobbra
+2068=Le
+2080=Бllapot mutatб&s
+2081=&Ablak stнlus
+2082=E&x. Ablak stнlusok
+2090=Informбciу &tцrlйse a fбjlokrуl a hh.dat-bуl
+
+
+;--------
+; Romвnг
+;--------
+[CHMDir.Romanian]
+
+LangName=Romвnг
+
+2=Abandon
+101=Opюiuni CHMDir
+1000=Despachetare
+1001=Expunere fiєiere C&HM speciale
+1002=Expunere fiєiere &ITS speciale
+1003=Folosire &specificaюii fiєier
+1004=&Fiєiere оn cache:
+1010=Оmpachetare
+1011=Mгrime cadru LZ&X:
+1013=&Mгrime sector listг:
+1015=&Calculare mгrime optimalг sector
+1016=&Ordonare dupг extensii оnainte de comprimare
+1017=Stocare fiєiere-&resurse (.jpg;.png;.gif):
+1019=&Nume fiєiere pentru pagina principalг (index.htm;index.html;readme.htm):
+1021=&Limbг dialog:
+1024=&Prioritate scazutг
+1025=&Titlul documentului, fгrг eticheta <TITLE>:
+1028=Folosir&e interfaюг IStorage COM (itss.dll) pentru оmpachetare
+1030=Fereastrг personali&zatг
+1031=&Design...
+1040=Lim&bг CHM:
+1042=Orг fiєier = &ultima actualizare
+
+102=Configuraюie fereastrг HtmlHelp
+2001=&Tip
+2003=Titlu
+2005=TOC
+2007=Index
+2009=HTML implicit
+2011=Acasг
+2021=Elemente &fereastrг
+2022=Fгrг text butoane
+2023=Sinc. TOC && index
+2024=Filг cгutare
+2025=Filг istoric
+2026=Filг favorite
+2027=Expunere titlu HTML
+2028=Fгrг butoane
+2029=Meniu
+2030=FTS avansat
+2035=Memorare poziюie fer.
+2036=&Ascund. TOC && index
+2041=&Butoane pupitru
+2042=Extindere/strвngere
+2043=Оnapoi
+2044=Оnainte
+2045=Stop
+2046=Reоncгrcare
+2047=Acasг
+2048=Sinc.
+2049=Opюiuni
+2050=Tipгrire
+2051=Scalare literг
+2052=TOC urmгtor
+2053=TOC anterior
+2054=Salt1
+2055=Salt2
+2061=&Poziюie fereastrг
+2062=Stвnga
+2064=Sus
+2066=Dreapta
+2068=Jos
+2080=E&xpunere stare
+2081=&Stiluri fereastrг
+2082=Stiluri s&upl. fereastrг
+2090=&Eliminare informaюii despre fiєier din hh.dat
+
+
+;---------------------------------------------
+; Секция с переводом диалогов на русский язык
+;---------------------------------------------
+[CHMDir.Russian]
+
+; Название языка на этом языке
+LangName=Русский
+
+2=Отмена
+101=Настройки плагина CHMDir
+1000=Распаковка
+1001=&Показывать файлы CHM
+1002=П&оказывать файлы ITS
+1003=&Использовать атрибуты файлов
+1004=Архивов в &кэше:
+1010=Упаковка
+1011=&Размер окна LZX:
+1013=Размер &чанка каталога:
+1015=&Вычислять оптимальный размер чанка
+1016=&Сортировать по расш. перед упаковкой
+1017=Н&е сжимать расш. (.jpg;.png;.gif;):
+1019=Названия топиков по &умолчанию (index.htm;index.html;readme.htm;):
+1021=&Язык диалога:
+1024=&Низкий приоритет
+1025=&Заголовок топика без тега <TITLE>:
+1028=Для упаковки испо&льзовать COM интерфейс IStorage (itss.dll)
+1030=Н&астраиваемое окно
+1031=Изменить...
+1040=Яз&ык CHM:
+1042=Со&хранять дату и время файла
+
+102=Свойства окна справки
+2001=&Тип
+2003=Заголовок
+2005=Содержание
+2007=Индекс
+2009=По умолчанию
+2011=Дом. страница
+2021=&Свойства окна
+2022=Кнопки без текста
+2023=Синхр. сод. и инд.
+2024=Поиск
+2025=Журнал
+2026=Избранное
+2027=Заголовок HTML
+2028=Без кнопок
+2029=Меню
+2030=Расшир. поиск
+2035=Сохр. поз. окна
+2036=Ск&рыть вкладки
+2041=Панель &кнопок
+2042=Показать/скрыть
+2043=Назад
+2044=Вперёд
+2045=Остановить
+2046=Обновить
+2047=Домой
+2048=Найти
+2049=Параметры
+2050=Печать
+2051=Шрифт
+2052=Далее по содерж.
+2053=Назад по содерж.
+2054=Переход1
+2055=Переход2
+2061=&Положение окна
+2062=Слева
+2064=Сверху
+2066=Справа
+2068=Снизу
+2080=&Отображение окна
+2081=Сти&ли окна
+2082=Расш. ст&или окна
+2090=&Удалить сведения о файле из hh.dat

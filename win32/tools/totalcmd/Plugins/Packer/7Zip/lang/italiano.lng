@@ -1,0 +1,35 @@
+; Author: MidiQuiz here <midiquiz.altervista.org>
+
+[lang]
+codepage=1252
+
+900=Salva
+901=Velocissimo
+903=Veloce
+905=Normale
+907=Massimo
+909=Ultra
+
+1000=7Zip Configurazione
+2000=7Zip Password
+
+1001=OK
+1002=Annulla
+1108=Mantieni l'uso di questa password successivamente
+1109=Cripta il file header e il nome del file
+1110=Mostra la password in testo piano
+1111=Crea archivi solidi (un flusso per tutti i dati)
+1112=Compressione
+1113=Livello di compressione:
+1114=Metodo di compressione:
+1115=Dimensione del Dizionario:
+1116=Dimensione della Parola:
+1117=Password
+1118=Usa la password:
+1123=Multithreading
+
+2001=OK
+2002=Annulla
+2101=L'archivio 7Zip è protetto dalla password
+2102=Prego inserisci la password per l'archivio
+2118=Password:

@@ -1,0 +1,35 @@
+; Author: Peter H. S. Madsen (petermad) <7zip@madsenworld.dk>
+
+[lang]
+codepage=1252
+
+900=Gem
+901=Hurtigst
+903=Hurtig
+905=Normal
+907=Maksimum
+909=Ultra
+
+1000=7Zip Indstillinger
+2000=7Zip Adgangskode
+
+1001=OK
+1002=Annuller
+1108=Fortsæt med at bruge denne adgangskode
+1109=Krypter filheader og filnavne
+1110=Vis adgangskode som almindelig tekst
+1111=Generer progressive (solide) arkiver (én stream for alle filer)
+1112= Kompression 
+1113=Kompressionsniveau:
+1114=Kompressionsmetode:
+1115=Ordbogsstørrelse:
+1116=Ordstørrelse:
+1117= Adgangskode 
+1118=Adgangskode:
+1123=Anvend multithreading ved komprimering
+
+2001=OK
+2002=Annuller
+2101=Arkivet er beskyttet med adgangskode
+2102=Indtast venligst adgangskoden for dette arkiv
+2118=Adgangskode:

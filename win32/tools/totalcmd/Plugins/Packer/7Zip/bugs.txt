@@ -1,0 +1,45 @@
+TK
+
+	7Zip Plugin 0.4.8 12.05.2006 - 16:10
+	This version do appear to be flaky. I've looked over the code, my guess is a bug in the thread handling, the cure is simple:
+	Please tear out everything concerning threading. Nothing calls for a thread here, no gains at all. No use.
+
+gnozal
+
+	7Zip Plugin 0.4.8 29.04.2006 - 04:46
+	Yes, I can confirm the problem.
+	Sometimes a file is not extracted (without notice) and if a file with same filename exists in the destination directory it is deleted !
+
+jaybus
+
+	7Zip Plugin 0.4.8 28.04.2006 - 07:36
+	There is a bug not only in decompression as some guys report here, but also in compression!
+
+	Sometimes I get archives that seem to contain all files I entered, the SHIFT+ALT+F9 reports "okay", but - *all* files in the archive cannot be decompressed...
+
+	Sorry Adam, you need to improve you plug-in *soon*!!! Meanwhile I will use the old external 7z plugin...
+
+!!! WARNING !!! HUGE ERROR !!! POSSIBBLE DATA LOSS
+
+	7Zip Plugin 0.4.8 31.03.2006 - 07:11
+	when unpacking it misses some files without notice, this errors not always shows up, *DO NOT* USE THIS VERSION, please take down this file !!!
+
+sad guy
+
+	7Zip Plugin 0.4.8 31.03.2006 - 06:59
+	it misses some files when unpacking some folder from big solid archive with maximum compression, total cmg should perform always automati cerification when unpacking from plugin
+
+junglemike
+
+	7Zip Plugin 0.4.8 27.03.2006 - 20:46
+	Great job. It is definitely much faster than previous version (which depended on external 7za.exe) . Progress bar also finally works.
+
+CMA
+
+	7Zip Plugin 0.4.8 18.03.2006 - 01:55
+	!!WORNING!! This plugin have a huge bug when you unpack archive packed oryginal standalone 7zip 4.32 & maybe previosly version too, not always but most of the time don`t unpack all files, many time just miss files without any worn/errors. This hapend on all systems xp/2000/98 & other and all file systems like fat/32/ntfs this is not a joke check this because you can lose many importand data when you pack oryginal but unpack by tcm every unpack you lose next files....
+
+AndyM
+
+	7Zip Plugin 0.4.8 13.03.2006 - 03:38
+	If you create an archive with the option 'Encrypt file header and file names' you cannot add or delete files to this archive afterwards (Error Packer extension: Cannot open file!

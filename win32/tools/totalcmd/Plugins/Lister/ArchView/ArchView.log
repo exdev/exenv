@@ -1,0 +1,89 @@
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+RAR:          marker archive                           - Error format
+RAR:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+ZIP/JAR:      signature archive                        - Error format
+ZIP/JAR:      _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+ACE:          block arhive header                      - Error format
+ACE:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+CAB:          block arhive header                      - Error format
+CAB:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+ARJ:          signature archive                        - Error format
+ARJ:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+LHA/LZH:      signature archive                        - Error format
+LHA/LZH:      _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+GZIP/TGZIP:   signature archive                        - Error format
+GZIP/TGZIP:   _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+TAR:          _TEST ARCHIVE_                           - Sudden end file
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+ARC/PAK:      signature archive                        - Error format
+ARC/PAK:      _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+BH:           signature archive                        - Error format
+BH:           _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+BZIP2/TBZIP2: block arhive header                      - Error format
+BZIP2/TBZIP2: _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+CPIO:         signature archive                        - Error format
+CPIO:         _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+DWC:          block archive end                        - Error format
+DWC:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+HA:           block arhive header                      - Error format
+HA:           _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+PPM:          signature archive                        - Error format
+PPM:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+SQZ:          block arhive header                      - Error format
+SQZ:          _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+Z:            signature archive                        - Error format
+Z:            _TEST ARCHIVE_                           - Error format
+
+05/14/10 13:01:00
+D:\exDev\exVim\sandbox\grun.cmd
+ZOO:          block arhive header                      - Error format
+ZOO:          _TEST ARCHIVE_                           - Error format

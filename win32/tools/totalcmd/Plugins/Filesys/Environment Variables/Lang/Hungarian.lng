@@ -1,0 +1,11 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=[Új változó]
+Current process (Total Commander)=Aktuális folyamat (Total Commander)
+System=Rendszer
+Current user=Aktuális felhasználó
+Change variable=Módosítandó változó
+Name:=Név:
+Value:=Érték:
+

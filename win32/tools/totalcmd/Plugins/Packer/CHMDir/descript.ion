@@ -1,0 +1,12 @@
+chmdir.css Style sheet for index_*.htm
+chmdir.lng language file
+CHMDir.wcx Total Commander WCX/WDX plugin module
+CHMView.exe program for viewing CHM files without hh.exe
+descript.ion file descriptions
+File_Id.diz short description of package
+index_en.htm description of package on English
+index_ru.htm description of package on Russian
+sample.ini sample INI-file for plugin
+UnCHMw.exe command line utility for unpacking CHM files (Win32)
+wtdump.exe dumps properties of HtmlHelp window
+wtedit.exe edit HtmlHelp window properties

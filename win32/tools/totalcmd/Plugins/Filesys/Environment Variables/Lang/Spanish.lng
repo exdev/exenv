@@ -1,0 +1,11 @@
+; Template for language file
+; You can send me your .lng by e-mail (vadyur@csodessa.com)
+
+[New variable]=
+Current process (Total Commander)=Proceso actual (Total Commander)
+System=Sistema
+Current user=Usuario actual
+Change variable=CAmbiar variable
+Name:=Nombre
+Value:=Valor
+

@@ -1,0 +1,14 @@
+; Мовний файл для плагіна файлової системи - Environment Variables 
+; автор перекладу -=sHa=- (sha.shadoll@gmail.com)
+
+[New variable]=
+Current process (Total Commander)=Поточний процес (Total Commander)
+System=Система
+Current user=Поточний користувач
+Change variable=Зміна змінної
+Name:=Ім'я:
+Value:=Значення:
+Language:=Мова:
+Properties=Налаштунки
+Show variables values=Відобразити значення змінних
+

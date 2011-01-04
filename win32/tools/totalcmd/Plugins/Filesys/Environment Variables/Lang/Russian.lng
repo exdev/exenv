@@ -1,0 +1,14 @@
+; Языковый файл для плагина файловой системы - Environment Variables
+; Вадим Юрышев.
+
+[New variable]=[Новая переменная]
+Current process (Total Commander)=Текущий процесс (Тотал командер)
+System=Системные
+Current user=Текущего пользователя
+Change variable=Изменение переменной
+Name:=Имя:
+Value:=Значение:
+Language:=Язык интерфейса:
+Properties=Настройки
+Show variables values=Показывать значения переменных
+

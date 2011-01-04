@@ -1,0 +1,35 @@
+; Author: Put your name here <and e-mail>
+
+[lang]
+codepage=1252
+
+900=Store
+901=Fastest
+903=Fast
+905=Normal
+907=Maximum
+909=Ultra
+
+1000=7Zip Configuration
+2000=7Zip Password
+
+1001=OK
+1002=Cancel
+1108=Keep using this password more than once
+1109=Encrypt file header and file names
+1110=Show password in plain text
+1111=Create solid archives (one stream for all files)
+1112=Compression
+1113=Compression level:
+1114=Compression method:
+1115=Dictionary size:
+1116=Word size:
+1117=Password
+1118=Use password:
+1123=Use multiple threads for compression
+
+2001=OK
+2002=Cancel
+2101=7Zip archive is password protected
+2102=Please enter password for archive
+2118=Password:
