@@ -1,0 +1,13 @@
+Git
+GraphViz
+IfranView
+MinGW
+msys
+NSIS
+Octave
+Python26
+Python27
+svn
+tecmake
+totalcmd
+winhex
