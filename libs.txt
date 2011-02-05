@@ -192,6 +192,11 @@ tag: javascript,framework
 home: http://www.prototypejs.org/
 repo: git clone git://github.com/sstephenson/prototype.git
 ------------------------------------------------------------------ 
+name: physFS
+tag: c,filesystem
+home: http://icculus.org/physfs
+repo: hg clone http://hg.icculus.org/physfs
+------------------------------------------------------------------ 
 name: RenderEngine-js
 tag: javascript,game engine
 home: http://www.renderengine.com/
